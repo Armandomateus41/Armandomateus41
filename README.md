@@ -19,7 +19,7 @@ I'm a Full Stack Developer passionate about building innovative and efficient we
 
  📫 How to Reach Me
 - Email: armandomateus41@example.com
-- LinkedIn: ### 👋 Hi, I’m Armando Mateus
+- LinkedIn:  👋 Hi, I’m Armando Mateus
 I'm a Full Stack Developer passionate about building innovative and efficient web solutions. With expertise in both front-end and back-end technologies, I thrive on creating robust, scalable applications.
 
  👀 What I’m Interested In
