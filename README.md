@@ -1,17 +1,35 @@
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ Armando Capita 👨‍💻
+
+**Desenvolvedor Full Stack WordPress**  
+Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO** e **Desenvolvimento Web Avançado**.
+
+
+ 🛠️ Minhas Especialidades
+
+- **Desenvolvimento Web:** Criação de sites dinâmicos e personalizados com **WordPress**.
+- **Frontend Moderno:** Aplicações interativas utilizando **React.js** e **Angular**.
+- **Backend e Integração:** Desenvolvimento de APIs e integração com serviços externos.
+- **SEO e Performance:** Otimização para motores de busca e melhor experiência do usuário.
+- **Responsividade:** Interfaces adaptáveis para qualquer dispositivo.
+
+
+🌟 Tecnologias que utilizo
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+</div>
+
+
+ 📈 Estatísticas do GitHub
 
 ![Armando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark)
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
-</div>
-### 🌐 Me encontre em:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [Twitter](https://twitter.com/seu-perfil)
-- [Portfolio](https://seu-site.com)
-![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armandomateus41&theme=github_dark)
+ 🌍 Onde me encontrar?
+
+- [**Site Pessoal**](https://armandomateus.com)  
+- [**LinkedIn**](https://www.linkedin.com/in/armando-capita)  
