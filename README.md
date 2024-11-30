@@ -29,7 +29,9 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 ![Armando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark)
- 🌍 Onde me encontrar?
 
-- [**Site Pessoal**](https://armandomateus.com)  
+
+🌍 Onde me encontrar?
+
+- [Site Pessoal**](https://armandomateus.com)  
 - [**LinkedIn**](https://www.linkedin.com/in/armando-capita)  
