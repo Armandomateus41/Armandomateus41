@@ -47,4 +47,4 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 ## 🌍 Onde me encontrar?
 
 - 🔗 [**Site Pessoal**](https://armandomateus.com)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/armando-capita)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/armandocapita/)
