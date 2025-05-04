@@ -1,40 +1,50 @@
- Armando Capita 👨‍💻
+# Armando Capita 🧑🏽‍💻
 
-**Desenvolvedor Full Stack WordPress**  
+**Desenvolvedor Full Stack**  
 Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO** e **Desenvolvimento Web Avançado**.
 
+---
 
- 🛠️ Minhas Especialidades
+## ⚙️ Minhas Especialidades
 
-- **Desenvolvimento Web:** Criação de sites dinâmicos e personalizados com **WordPress**.
-- **Frontend Moderno:** Aplicações interativas utilizando **React.js** e **Angular**.
-- **Backend e Integração:** Desenvolvimento de APIs e integração com serviços externos.
-- **SEO e Performance:** Otimização para motores de busca e melhor experiência do usuário.
-- **Responsividade:** Interfaces adaptáveis para qualquer dispositivo.
+- **Frontend Moderno:** Aplicações interativas utilizando **React.js**, **Angular**, **TypeScript** e **TailwindCSS**.  
+- **Backend e Integração:** Desenvolvimento de APIs, serviços REST e integrações com sistemas externos.  
+- **SEO e Performance:** Técnicas para melhorar posicionamento nos buscadores e carregamento rápido.  
+- **Responsividade e UX:** Interfaces adaptáveis para qualquer dispositivo com foco em experiência do usuário.  
+- **Boas Práticas de Código:** Estrutura limpa, escalável e fácil de manter.
 
+---
 
-🌟 Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
+</p>
 
+---
 
- 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![Armando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)
+![Armando Capita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark)
 
+---
 
-🌍 Onde me encontrar?
+## 💼 Experiência Complementar
 
-- [**Site Pessoal**](https://armandomateus.com)  
-- [**LinkedIn**](https://www.linkedin.com/in/armando-capita)  
+- **Desenvolvedor Full Stack WordPress:** Atuação sólida na criação de sites institucionais, blogs, landing pages e sistemas gerenciáveis com foco em performance, SEO e personalização avançada.
+
+---
+
+## 🌍 Onde me encontrar?
+
+- 🔗 [**Site Pessoal**](https://armandomateus.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/armando-capita)
