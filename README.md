@@ -1,3 +1,4 @@
+
 # Armando Capita 🧑🏽‍💻
 
 **Desenvolvedor Full Stack**  
@@ -35,6 +36,12 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 ![Armando Capita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark)
+
+---
+
+## 🧱 Gráfico 3D de Contribuições
+
+![Contribuição 3D](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
