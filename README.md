@@ -1,12 +1,11 @@
-
-# Armando Capita 
+# Armando Capita 🧑🏽‍💻
 
 **Desenvolvedor Full Stack**  
 Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO** e **Desenvolvimento Web Avançado**.
 
 ---
 
-##  Minhas Especialidades
+## ⚙️ Minhas Especialidades
 
 - **Frontend Moderno:** Aplicações interativas utilizando **React.js**, **Angular**, **TypeScript** e **TailwindCSS**.  
 - **Backend e Integração:** Desenvolvimento de APIs, serviços REST e integrações com sistemas externos.  
@@ -16,7 +15,7 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 ---
 
-##  Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
@@ -39,13 +38,7 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 ---
 
-## Gráfico 3D de Contribuições
-
-https://raw.githubusercontent.com/Armandomateus41/Armandomateus41/main/profile-3d-contrib/profile-night-green.svg
-
----
-
-## Experiência Complementar
+## 💼 Experiência Complementar
 
 - **Desenvolvedor Full Stack WordPress:** Atuação sólida na criação de sites institucionais, blogs, landing pages e sistemas gerenciáveis com foco em performance, SEO e personalização avançada.
 
