@@ -3,7 +3,6 @@
 **Desenvolvedor Full Stack**  
 Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO** e **Desenvolvimento Web Avançado**.
 
-![Contribuição 3D](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
