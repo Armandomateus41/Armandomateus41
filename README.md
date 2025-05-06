@@ -41,7 +41,7 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 ## Gráfico 3D de Contribuições
 
-![Contribuição 3D](https://raw.githubusercontent.com/Armandomateus41/Armandomateus41/main/profile-3d-contrib/profile-night-green.svg)
+https://raw.githubusercontent.com/Armandomateus41/Armandomateus41/main/profile-3d-contrib/profile-night-green.svg
 
 ---
 
