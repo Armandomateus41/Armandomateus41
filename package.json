@@ -1,0 +1,20 @@
+{
+  "name": "armandomateus41",
+  "version": "1.0.0",
+  "description": "Basic Express and Prisma project",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "@prisma/client": "^5.0.0",
+    "prisma": "^5.0.0"
+  },
+  "devDependencies": {}
+}

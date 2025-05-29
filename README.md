@@ -49,3 +49,33 @@ Especialista em **Criação de Interfaces Responsivas**, **Otimização de SEO**
 
 - 🔗 [**Site Pessoal**](https://armandomateus.com)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/armandocapita/)
+
+---
+
+## Node.js Express + Prisma Example
+
+Este repositório possui uma estrutura básica de projeto utilizando [Express](https://expressjs.com/) e [Prisma](https://www.prisma.io/).
+
+### Configuração
+
+1. Instale as dependências (requer conexão com a internet):
+
+```bash
+npm install
+```
+
+2. Gere o cliente Prisma e aplique as migrações:
+
+```bash
+npx prisma generate
+npx prisma migrate dev --name init
+```
+
+3. Inicie o servidor de desenvolvimento:
+
+```bash
+npm start
+```
+
+A aplicação estará disponível em `http://localhost:3000`.
+
