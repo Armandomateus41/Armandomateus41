@@ -1,118 +1,155 @@
-# Armando Capita
-
-**Engenheiro de Software Sênior · Full Stack com foco em Frontend**
-
-Desenvolvo aplicações web com React e TypeScript, com ênfase em acessibilidade (WCAG 2.2), performance, testes automatizados e CI/CD. Trabalho a integração com APIs REST/GraphQL e backends Node.js quando o produto exige camada server-side.
-
-<p align="left">
-  <strong>Frontend</strong><br />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<p align="center">
+  <img src="./assets/banner.png" alt="Armando Capita Banner" width="100%" />
 </p>
 
-<p align="left">
-  <strong>Backend &amp; dados</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-EB1F63?logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2C3443?logo=prisma&logoColor=white" alt="Prisma" />
-</p>
+<br />
 
-<p align="left">
-  <strong>Qualidade &amp; CI/CD</strong><br />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<table cellpadding="24">
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <strong>Atualmente</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=react,ts,nodejs&theme=dark&perline=3"
+        alt="React, TypeScript, Node.js"
+      />
+      <br /><br />
+      <sub>Frontend architecture · Performance · Acessibilidade</sub>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <strong>Stack principal</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=react,ts,next,angular,nodejs,nestjs,postgres,prisma,tailwind,vite,docker,git,github,playwright&theme=dark&perline=4"
+        alt="Stack principal"
+      />
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <strong>Foco técnico</strong>
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=playwright,githubactions,graphql,nodejs&theme=dark&perline=4"
+        alt="Playwright, CI/CD, GraphQL, Node.js"
+      />
+      <br /><br />
+      <img src="https://img.shields.io/badge/WCAG-2.2-21262d?style=flat-square&logo=w3c&logoColor=005A9C" alt="WCAG" />
+      <img src="https://img.shields.io/badge/Web-Vitals-21262d?style=flat-square&logo=lighthouse&logoColor=F44B21" alt="Web Vitals" />
+      <img src="https://img.shields.io/badge/OWASP-segurança-21262d?style=flat-square&logo=shield&logoColor=f0f6fc" alt="OWASP" />
+      <br />
+      <img src="https://img.shields.io/badge/CI%2FCD-pipeline-21262d?style=flat-square&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/REST%2FGraphQL-21262d?style=flat-square&logo=graphql&logoColor=E10098" alt="REST/GraphQL" />
+      <img src="https://img.shields.io/badge/Playwright-testes-21262d?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## Competências
+## Projetos em destaque
 
-### Frontend
+<table cellpadding="28">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Centavvo-SaaS-161b22?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Centavvo" />
+      <br /><br />
+      Finanças pessoais com assinatura recorrente, dashboard analítico e billing Stripe.
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=next,ts,prisma,postgres,stripe&theme=dark&perline=5"
+        alt="Next.js, TypeScript, Prisma, PostgreSQL, Stripe"
+      />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Pulsor-Mobile-161b22?style=for-the-badge&logo=expo&logoColor=f0f6fc" alt="Pulsor" />
+      <br /><br />
+      Rede social mobile-first com descoberta social, momentos e interação em tempo real.
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=reactnative,expo,ts,nodejs,prisma&theme=dark&perline=5"
+        alt="React Native, Expo, TypeScript, Node.js, Prisma"
+      />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Portal_público-Web-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portal público" />
+      <br /><br />
+      Portal institucional com acessibilidade WCAG, SEO, PWA, testes automatizados e CI/CD.
+      <br /><br />
+      <img
+        src="https://skillicons.dev/icons?i=react,vite,ts,playwright,githubactions&theme=dark&perline=5"
+        alt="React, Vite, TypeScript, Playwright, GitHub Actions"
+      />
+    </td>
+  </tr>
+</table>
 
-- React 18, TypeScript, Vite, Next.js, Angular
-- TailwindCSS (v4), shadcn/ui, Radix, Framer Motion
-- React Router, TanStack Query, estado escalável (Context e padrões equivalentes)
-- Acessibilidade WCAG 2.2 AA, UX responsiva e microcopy
+<br />
 
-### Backend e integração
+## Qualidade técnica
 
-- Node.js (NestJS/Express), REST/GraphQL
-- PostgreSQL, Prisma ORM
-- Autenticação (JWT/Passport/OAuth), validação, caching
+<table cellpadding="20">
+  <tr>
+    <td align="center" width="33%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>Arquitetura sustentável</strong>
+    </td>
+    <td align="center" width="33%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>Componentização clara</strong>
+    </td>
+    <td align="center" width="33%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=playwright&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>Testes em fluxos críticos</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>CI com lint/typecheck/build</strong>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>Acessibilidade e performance</strong>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=1" alt="" />
+      <br /><br />
+      <strong>Documentação objetiva</strong>
+    </td>
+  </tr>
+</table>
 
-### Qualidade, testes e CI/CD
+<br />
 
-- Vitest/Jest (unit), Playwright (e2e), Testing Library
-- GitHub Actions: lint, typecheck, unit, e2e, build e artifact de cobertura
-- ESLint, Prettier, TypeScript strict, Conventional Commits, PRs com checklist
+## GitHub
 
-### Performance, SEO e PWA
-
-- Web Vitals (LCP, CLS, INP), code-splitting, lazy loading, Suspense
-- Lighthouse, OG/meta tags, sitemap e robots
-- Service Worker, offline, Workbox, manifest
-
-### Observabilidade e segurança
-
-- Logs estruturados, métricas de UX, tracing básico (OpenTelemetry)
-- Práticas OWASP (XSS, CSRF, CORS), headers e CSP no deploy
-- Docker/Nginx, ambientes dev/test/prod, feature flags
-
----
-
-## Case em destaque · Portal Público (React + Vite + TypeScript)
-
-Portal web com requisitos reais de acessibilidade, SEO, performance e entrega contínua.
-
-| Área | O que foi feito |
-| --- | --- |
-| **Acessibilidade** | Navegação por teclado, `aria-*` consistentes, foco visível, correção de âncoras inválidas; ajustes em Header, Footer, News e HIS conforme WCAG 2.2 AA |
-| **SEO e performance** | OG/meta por página, sitemap/robots, otimização de Web Vitals (LCP, CLS, INP), code-splitting, lazy/Suspense, imagens otimizadas, feedback de carregamento (NProgress) |
-| **PWA** | Service Worker via Workbox, `offline.html`, manifest completo, cache policies por tipo de recurso |
-| **Qualidade** | Testes unitários (Vitest + RTL) e e2e smoke (Playwright); cobertura publicada como artifact no Actions; pipeline verde em Node 18/20 (lint, typecheck, unit, e2e, build) |
-| **Manutenibilidade** | README de onboarding e `docs/architecture.md`; roadmap de cobertura incremental com thresholds evolutivos, sem quebrar o CI |
-
----
-
-## Como eu trabalho
-
-- Arquitetura simples e documentada — onboarding, `docs/` e ADRs quando o contexto pede registro de decisão
-- Acessibilidade e UX como requisito de produto, não etapa final
-- CI como baseline: lint, typecheck, testes unitários, e2e smoke em rotas críticas e build
-- Testes orientados a fluxos reais e estados de UI, não só ao happy path
-- Segurança (OWASP) e Web Vitals considerados desde o design
-
----
-
-## Experiência complementar
-
-WordPress Full Stack para sites institucionais, blogs e landing pages — performance, SEO, migrações e integrações.
-
----
-
-## Atividade no GitHub
-
-<p align="left">
+<p align="center">
   <img
-    src="https://readme-stats-fast.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark&hide_border=true"
-    height="165"
+    src="https://readme-stats-fast.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=58a6ff"
+    height="170"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    height="165"
-    alt="Linguagens mais usadas"
+    src="https://streak-stats.demolab.com/?user=Armandomateus41&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=f0f6fc&sideLabels=c9d1d9&dates=8b949e"
+    height="170"
+    alt="GitHub Streak"
   />
 </p>
 
----
+<br />
 
 ## Contato
 
-- **Site:** [armandomateus.com](https://armandomateus.com)
-- **LinkedIn:** [linkedin.com/in/armandocapita](https://www.linkedin.com/in/armandocapita/)
-- **GitHub:** [@Armandomateus41](https://github.com/Armandomateus41)
+<p align="center">
+  <a href="https://armandomateus.com">
+    <img src="https://img.shields.io/badge/Site-armandomateus.com-21262d?style=for-the-badge&logo=googlechrome&logoColor=f0f6fc" alt="Site" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/armandocapita/">
+    <img src="https://img.shields.io/badge/LinkedIn-Armando_Capita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
