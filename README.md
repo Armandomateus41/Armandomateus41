@@ -96,8 +96,18 @@ WordPress Full Stack para sites institucionais, blogs e landing pages — perfor
 
 ## Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark)
+<p align="left">
+  <img
+    src="https://readme-stats-fast.vercel.app/api?username=Armandomateus41&show_icons=true&theme=dark&hide_border=true"
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Armandomateus41&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    height="165"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
 ---
 
