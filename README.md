@@ -8,7 +8,7 @@ Desenvolvo produtos web e mobile e acompanho o trabalho da definição do projet
 
 ## Produtos no ar
 
-### AfroPedido · [afropedido.com.br](https://afropedido.com.br/)
+### AfroPedido · [afropedido.com.br](https://afropedido.com.br/) · [Google Play](https://play.google.com/store/apps/details?id=br.com.afropedido.app)
 
 <a href="https://afropedido.com.br/">
   <img src="./assets/afropedido.webp" alt="AfroPedido aberto no computador e no celular" width="100%" />
