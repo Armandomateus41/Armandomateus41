@@ -1,4 +1,6 @@
-# Armando Capita · Engenheiro de Software Sênior Full Stack
+<p align="center">
+  <img src="./assets/cabecalho.svg" alt="Armando Capita · Engenheiro de Software Sênior Full Stack" width="100%" />
+</p>
 
 Desenvolvo produtos web e mobile e acompanho o trabalho da definição do projeto até a publicação.
 
@@ -8,9 +10,17 @@ Desenvolvo produtos web e mobile e acompanho o trabalho da definição do projet
 
 ### AfroPedido · [afropedido.com.br](https://afropedido.com.br/)
 
+<a href="https://afropedido.com.br/">
+  <img src="./assets/afropedido.webp" alt="AfroPedido aberto no computador e no celular" width="100%" />
+</a>
+
 Marketplace web e Android para encontrar negócios da comunidade africana e afrodescendente no Brasil. Desenvolvi o fluxo em que o cliente monta o pedido e acompanha o andamento, e o painel em que o lojista gerencia os produtos e atualiza cada pedido. Cada pedido reúne itens de uma única loja: assim ele tem um só responsável pelo atendimento, e o andamento que o cliente acompanha é o daquela loja.
 
 ### Ondela · [ondela.com.br](https://ondela.com.br/) · [Google Play](https://play.google.com/store/apps/details?id=app.ondela.mobile)
+
+<a href="https://ondela.com.br/">
+  <img src="./assets/ondela.webp" alt="Ondela aberta no computador e no celular" width="100%" />
+</a>
 
 Rede social brasileira na web e no Android, com conversas, vídeos curtos e Flashes. Desenvolvi as versões web e Android do produto. Quem publica um Flash escolhe, no momento da publicação, se ele fica visível para todos ou apenas para o círculo “Entre nós”.
 
@@ -20,5 +30,7 @@ Rede social brasileira na web e no Android, com conversas, vídeos curtos e Flas
 - **[onfly-booking-system](https://github.com/Armandomateus41/onfly-booking-system)** · Laravel. API REST de pedidos de viagem corporativa com autenticação JWT: veja o [teste da regra que impede o solicitante de alterar o status do próprio pedido](https://github.com/Armandomateus41/onfly-booking-system/blob/1bcd095f65de2473d577a5eed4abe3bef358c648/tests/Feature/TravelRequestTest.php#L83-L96).
 
 ## Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,docker" alt="React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL e Docker" height="40" />
 
 React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Docker
